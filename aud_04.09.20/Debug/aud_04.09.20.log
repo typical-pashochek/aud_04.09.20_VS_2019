@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Projects_in_cpp\aud_04.09.20\aud_04.09.20\main.cpp(28,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects_in_cpp\aud_04.09.20\aud_04.09.20\main.cpp(29,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects_in_cpp\aud_04.09.20\aud_04.09.20\main.cpp(37,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects_in_cpp\aud_04.09.20\aud_04.09.20\main.cpp(38,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects_in_cpp\aud_04.09.20\aud_04.09.20\main.cpp(45,23): warning C4018: <: несоответствие типов со знаком и без знака
+  aud_04.09.20.vcxproj -> D:\Projects_in_cpp\aud_04.09.20\Debug\aud_04.09.20.exe
